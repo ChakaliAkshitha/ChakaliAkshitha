@@ -1,16 +1,24 @@
-## Hi there 👋
+## Chakali Akshitha
 
-<!--
-**ChakaliAkshitha/ChakaliAkshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Student with a strong foundation in Core Java, SQL, and web technologies.  
+Focused on building scalable backend applications and learning modern full-stack development.
 
-Here are some ideas to get you started:
+### Skills
+- **Backend:** Core Java, OOP, Spring Boot (basics)
+- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, Eclipse, MySQL Workbench
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Advanced Java concepts
+- Spring Boot & REST APIs
+- Database integration with MySQL
+- Full Stack application development
+
+### Career Goal
+Aspiring Software Developer seeking opportunities to apply Java Full Stack skills in real-world projects and grow as a backend/full-stack engineer.
+
+### Contact
+GitHub: https://github.com/ChakaliAkshitha
+Gmail:chakaliakshi@gmail.com
+
